@@ -1,4 +1,4 @@
-# Bitcoin-Prediction
+# BitcoinGenie
 A program in Python that Linear,
 Polynomial and Radio Basis Function models. Written in Python 2.7 
 
